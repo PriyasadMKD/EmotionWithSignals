@@ -1,0 +1,10 @@
+../weights/Emotion_Fold_0_Conv_Channel_Time2_74_96.65286666666667.pkl
+../weights/Emotion_Fold_1_Conv_Channel_Time2_79_96.05186666666667.pkl
+../weights/Emotion_Fold_2_Conv_Channel_Time2_79_96.5256.pkl
+../weights/Emotion_Fold_3_Conv_Channel_Time2_73_96.73923333333333.pkl
+../weights/Emotion_Fold_4_Conv_Channel_Time2_70_96.59743333333334.pkl
+../weights/Emotion_Fold_5_Conv_Channel_Time2_69_96.40496666666667.pkl
+../weights/Emotion_Fold_6_Conv_Channel_Time2_68_96.46943333333333.pkl
+../weights/Emotion_Fold_7_Conv_Channel_Time2_4_63.5722.pkl
+../weights/Emotion_Fold_8_Conv_Channel_Time2_76_96.91013333333332.pkl
+../weights/Emotion_Fold_9_Conv_Channel_Time2_72_96.87579999999998.pkl
